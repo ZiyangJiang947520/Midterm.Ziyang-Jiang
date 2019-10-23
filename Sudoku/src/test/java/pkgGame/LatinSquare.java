@@ -256,8 +256,7 @@ public class LatinSquare {
 		if(arr1.length == 0) {
 			return false;
 		}
-		
-		 if(arr1.length == 0) {
+		if(arr1.length == 0) {
 			return true;
 		}
 		for(int i = 0; i < arr2.length; i++) {
@@ -476,4 +475,4 @@ interface iLatinSquare{
 	boolean isLatinSquare();
 }
 
-
+s
